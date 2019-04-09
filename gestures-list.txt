@@ -1,0 +1,8 @@
+Gestures:
+A
+V
+B
+STOP
+OK
+HELLO
+
